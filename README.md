@@ -1,10 +1,3 @@
-<div align="center">
-  <div id="language-icons">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="32" height="32"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="32" height="32"/>
-  </div>
-</div>
-
 ## My Story:
 <p>I am a 36 year old US Army Veteran and Software Engineer. My development journey started with making video game addons and I've been working on continuing that journey ever since. After joining the military post 9/11, and spending time as a Correctional Officer, I decided to try my hand at software development. I completed a Full Stack Web Developer bootcamp in 2022, which helped me learn how to use a large variety of languages including HTML, CSS, JavaScript, Bootstrap, VueJS, NodeJS and C#. I also learned some backend database software such as MongoDB and MySQL. As of 2025 I am restarting my development journey with Python first.</p>
 
